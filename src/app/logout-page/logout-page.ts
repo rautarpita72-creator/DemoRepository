@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 })
 export class LogoutPage {
   constructor(){
-    console.log("Wellcome To The Logout Page.!");
+    console.log("this Is Develop Page New information added");
   }
 }
