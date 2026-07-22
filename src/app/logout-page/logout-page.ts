@@ -6,4 +6,8 @@ import { Component } from '@angular/core';
   templateUrl: './logout-page.html',
   styleUrl: './logout-page.css',
 })
-export class LogoutPage {}
+export class LogoutPage {
+  constructor(){
+    console.log("Wellcome To The Logout Page.!");
+  }
+}
